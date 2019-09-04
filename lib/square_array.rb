@@ -1,5 +1,9 @@
 def square_array(array)
-  while numbers = [4, 6, 8]
-  Math.sqrt(numbers)
-  
+  square_array = [] 
+  counter = 0 
+  while counter < array.length do
+    square_array.push(array[counter]**2)
+    counter += 1 
+  end
+  return square_array
 end
