@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  while numbers = [4, 6, 8]
+  Math.sqrt(numbers)
+  
 end
